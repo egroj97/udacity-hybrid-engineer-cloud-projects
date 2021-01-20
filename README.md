@@ -1,0 +1,2 @@
+# udacity-hybrid-engineer-cloud-projects
+This Nanodegree program, built in collaboration with experts from Nutanix, a leader in the cutting-edge field of hyperconverged infrastructure software, takes cloud technology and data-center professionals on an in-depth journey into the design, deployment, and management of infrastructure and applications together on the Hybrid Cloud. Master the concepts you need to transform how your IT teams manage applications and support the business.
